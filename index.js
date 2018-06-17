@@ -1,5 +1,3 @@
 //const app = "I don't do much."
-$(document).on("load", function(){
-  alert("welcome")
-  })
-  
+var dodger = document.getElementById('doger')
+  doger.style.backgroundColor='#000000'
