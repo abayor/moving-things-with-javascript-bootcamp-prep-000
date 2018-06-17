@@ -1,2 +1,5 @@
 //const app = "I don't do much."
-alert("welcome")
+$(document).on("load", function(){
+  alert("welcome")
+  })
+  
